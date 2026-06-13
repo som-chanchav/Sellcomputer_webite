@@ -1,0 +1,18 @@
+        :root {
+            --primary-gradient: linear-gradient(135deg, #1a2a6c, #b21f1f, #1a2a6c);
+            --accent-gradient: linear-gradient(135deg, #ff8c00, #ff6a00);
+            --secondary-gradient: linear-gradient(135deg, #2c3e50, #1a1f29);
+            --card-gradient: linear-gradient(135deg, #ffffff, #f8f9fc);
+            --dark-gradient: linear-gradient(135deg, #0f131a, #1e2532);
+            --success-color: #4CAF50;
+            --processing-color: #FF9800;
+            --shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+            --transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+            --border-radius: 12px;
+            --header-height: 90px;
+            --text-light: #f5f7fa;
+            --text-dark: #333;
+            --text-medium: #666;
+            --card-bg: #ffffff;
+            --section-bg: #f9fbfd;
+        }
